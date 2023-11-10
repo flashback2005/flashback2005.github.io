@@ -7,7 +7,7 @@ body {
 }
 
 #part1 {
-    background-image: url('../img/banner.jpeg');
+    background-image: url('../img/banner.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
@@ -575,7 +575,7 @@ body {
     font-size: 18px;
     color: #554646;
     background-color: #f2e8e8;
-    background-image: url('../img/banner.jpeg');
+    background-image: url('../img/banner.jpg');
     background-repeat: repeat;
     background-position: left top;
     background-size: cover;
