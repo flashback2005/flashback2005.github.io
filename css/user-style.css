@@ -589,12 +589,12 @@ body {
     background-position: left top;
     background-attachment: scroll;
     background-size: auto;
-    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-image: url('../img/bg.png');
 }
 
 .c3050 {
     background-color: #979595;
-    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-image: url('../img/bg.png');
     background-repeat: repeat;
     background-position: left top;
     background-attachment: scroll;
@@ -1658,7 +1658,7 @@ body {
 }
 
 .c7244 {
-    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-image: url('../img/bg.png');
     background-size: auto;
     background-repeat: repeat;
     background-position: left top;
@@ -1743,11 +1743,11 @@ body {
 }
 
 .c10772 {
-    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-image: url('../img/bg.png');
 }
 
 .c13089 {
-    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-image: url('../img/bg.png');
     background-repeat: repeat;
     background-position: left top;
     background-attachment: scroll;
@@ -3670,7 +3670,7 @@ body {
 }
 
 .c6730 {
-    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-image: url('../img/bg.png');
     background-size: cover;
     padding: 120px 10px 120px 10px;
 }
