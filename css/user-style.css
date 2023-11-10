@@ -1,0 +1,4006 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#part1 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/封面1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#ignzbja {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ike0y7y {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iz2cvy5 {
+    background-color: #ffffff;
+}
+
+#im7w5yc {
+    font-size: 1rem;
+    word-spacing: 0.05rem;
+}
+
+#ipwxasf {
+    color: rgb(89, 89, 89);
+    font-family: 宋体;
+    font-size: 12pt;
+    text-align: left;
+    word-spacing: 0.05rem;
+}
+
+#imzhe9z {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iait45e {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iaee176 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iwirikm {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iii7vkt {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ili3f9n {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ibzvnw9 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#imn2n95 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ifhnmeu {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ii7x52i {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iu6f5pj {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#i4c3qa4 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iw01i06 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#i9hv332 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iwos6jl {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#i3w6grn {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iy7zk9k {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ii276we {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ircfd1z {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#i33qf4i {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ihg7vpb {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#izbecsx {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iimdx6i {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ickvsnf {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iz9n5ml {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#i0f436b {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iz21jfz {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#irxtjhb {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#izdga6l {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#i0zlcg8 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ighhbpl {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iwmgkiw {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#i6dly72 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iztumgg {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iq6tzs4 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#ix7uhxl {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#infiw2k {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#iikr4vd {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#irt8h1i {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+#header:not(.sticky-header) #logo a {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.c29464 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c37845 {
+    word-spacing: 0.05rem;
+}
+
+.c50973 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c55572 {
+    padding: 10px;
+    text-align: left;
+}
+
+.fdb-block {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    padding-top: 100px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 0px;
+    color: rgb(68, 68, 68);
+    position: relative;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.fdb-block .text-h1, .fdb-block h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .col-fill-left {
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    z-index: 1;
+}
+
+a {
+    color: rgb(0, 123, 255);
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    background-color: transparent;
+}
+
+a:hover {
+    color: rgb(0, 86, 179);
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.center.page-section {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/tg0a5dl8atbe2964i1-165510945834016.jpg');
+    background-attachment: scroll;
+    background-repeat: repeat;
+    background-position: left top;
+    background-size: auto;
+}
+
+.htmlpage-row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.htmlpage-cell {
+    width: 8%;
+    display: table-cell;
+    height: 75px;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+}
+
+header .navbar-nav a.nav-link {
+    color: rgb(119, 119, 119);
+}
+
+header .navbar-nav a.nav-link:hover {
+    color: rgb(82, 139, 255);
+}
+
+header .navbar-nav .active a.nav-link {
+    color: rgb(68, 68, 68);
+}
+
+header .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+header.bg-dark .navbar-nav a.nav-link {
+    color: rgb(220, 220, 220);
+}
+
+header.bg-dark .navbar-nav a.nav-link:hover {
+    color: rgb(82, 139, 255);
+}
+
+header.bg-dark .navbar-nav .active a.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+header.bg-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#fff' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+header + header {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(238, 238, 238);
+}
+
+.c25624 {
+    padding: 10px;
+}
+
+.fp-active {
+    position: relative;
+}
+
+.nav-link {
+    position: static;
+    overflow: visible;
+}
+
+.fdb-block .col-fill-right {
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    z-index: 1;
+}
+
+.fdb-block .col-fill-right + div {
+    position: relative;
+    z-index: 2;
+}
+
+.media-icons a {
+    margin-right: 12px;
+}
+
+.row {
+    height: 500px;
+}
+
+.container.py-14.py-md-16 {
+    height: 800px;
+    background-image: url('https://static.htmlpage.cn/editor/images/assets/bg2.jpg');
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: auto;
+    border: 29px ridge black;
+}
+
+.c18211 {
+    color: #d983a6;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.c18014 {
+    padding: 0px 10px 0px 10px;
+    width: 80%;
+    text-align: left;
+    position: static;
+    border: 0px solid black;
+    margin: 84px 0px 84px 10%;
+    font-size: 0px;
+}
+
+.fdb-block.pt-0.pb-0 {
+    font-size: 18px;
+    color: #554646;
+    background-color: #f2e8e8;
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/封面1.jpg');
+    background-repeat: repeat;
+    background-position: left top;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px 0px 0px 0px;
+}
+
+.c20856 {
+    background-color: #979595;
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: auto;
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+}
+
+.c3050 {
+    background-color: #979595;
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.MsoNormal {
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 20% 0px 20%;
+}
+
+.c10929 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.MsoNormal.c41596 {
+    line-height: 4px;
+}
+
+.c47766 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c49595 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c51374 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.fdb-block img {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.fdb-block .fdb-touch {
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: rgb(82, 139, 255);
+}
+
+.fdb-block .fdb-box {
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+    color: rgb(68, 68, 68);
+    padding-top: 60px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 40px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.fdb-block h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .text-h3, .fdb-block h3 {
+    font-size: 0.875rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block img + h1, .fdb-block img + h2 {
+    margin-top: 40px;
+}
+
+.c56233 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c81584 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c81610 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c82717 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c82481 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c82502 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    font-size: 10.5000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c82126 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c82153 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    font-size: 10.5000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c89446 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c89763 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+    font-family: 等线;
+}
+
+.c89879 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c85168 {
+    border-radius: 0px 0px 0px 0px;
+    padding: 0px 20% 0px 20%;
+}
+
+.c98129 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c98156 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c99645 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c99672 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c99972 {
+    font-size: 12pt;
+}
+
+.c99993 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c100946 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c101505 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c101681 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c101995 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c112567 {
+    padding: 10px;
+    margin: 0px 20% 0px 20%;
+}
+
+.c112686 {
+    color: rgb(255, 255, 255);
+    font-family: 宋体;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c112730 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c112757 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c113223 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c113482 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c113509 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    font-size: 10.5000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c113929 {
+    word-spacing: 0.05rem;
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 12pt;
+}
+
+.c114046 {
+    text-indent: 24.0000pt;
+    mso-char-indent-count: 2.0000;
+}
+
+.c114532 {
+    padding: 10px;
+    text-align: left;
+}
+
+.c114926 {
+    width: 50%;
+    margin: 0px 25% 0px 25%;
+}
+
+.c115141 {
+    padding: 10px;
+}
+
+.c115198 {
+    text-align: center;
+}
+
+.c102805 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c117651 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c120385 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c6361 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c6383 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c6397 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c7398 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c7420 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c7434 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c8354 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c8376 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c8390 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c8762 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c8784 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c8798 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c10119 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c10141 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c10404 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c10155 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c10531 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c10553 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c10567 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c10939 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c10961 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c11080 {
+    font-size: 12pt;
+}
+
+.c11111 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c10975 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c11502 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c11524 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c11538 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c11908 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c11930 {
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 14pt;
+}
+
+.c12112 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c12143 {
+    font-family: 等线;
+    font-size: 12pt;
+}
+
+.c11944 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c10095 {
+    margin: 19px 0px 0px 0px;
+    padding: 60px 0px 50px 0px;
+}
+
+.c14277 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c14659 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c14690 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c14190 {
+    padding: 47px 1px 61px 0px;
+    margin: 3px 0px 0px 0px;
+}
+
+.c22278 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c22449 {
+    mso-spacerun: 'yes';
+    font-family: 宋体;
+    mso-ascii-font-family: 等线;
+    mso-hansi-font-family: 等线;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c23064 {
+    color: rgb(255, 255, 255);
+    font-family: 宋体;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c23091 {
+    word-spacing: 0.05rem;
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 12pt;
+}
+
+.c22654 {
+    color: rgb(89, 89, 89);
+    font-family: 宋体;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c23937 {
+    word-spacing: 0.05rem;
+    font-family: 宋体;
+    color: rgb(255, 255, 255);
+    font-size: 12pt;
+}
+
+.c23500 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c23819 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c25575 {
+    color: rgb(255, 255, 255);
+    font-family: 宋体;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c26653 {
+    color: rgb(255, 255, 255);
+    font-family: 宋体;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c27980 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c6482 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(255,255,255);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c22672 {
+    color: rgb(89, 89, 89);
+    font-family: 宋体;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c22690 {
+    color: rgb(89, 89, 89);
+    font-family: 宋体;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c22708 {
+    color: rgb(89, 89, 89);
+    font-family: 宋体;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c22820 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c22857 {
+    font-family: 宋体;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c22911 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c23873 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c25640 {
+    color: black;
+    margin: 0px 0px 0px 0px;
+}
+
+.c25786 {
+    color: black;
+}
+
+.c26234 {
+    color: black;
+    width: 40%;
+    margin: 0px 30% 50px 30%;
+}
+
+.c26486 {
+    color: black;
+    margin: 0px 15% 0px 15%;
+    width: 70%;
+    padding: 20px 0px 20px 0px;
+}
+
+.c39801 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c5834 {
+    padding: 0px 15% 10px 15%;
+}
+
+.c6392 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c6869 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c7021 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c7139 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c7739 {
+    color: rgb(89, 89, 89);
+    font-size: 14pt;
+}
+
+.c7824 {
+    color: rgb(89, 89, 89);
+    font-size: 14pt;
+}
+
+.c7864 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c7704 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c7731 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c7789 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+    color: rgb(89, 89, 89);
+}
+
+.c7816 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c7856 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c7896 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+    color: rgb(89, 89, 89);
+}
+
+.c8585 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c9295 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c9749 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.col-12.col-md-5.text-center {
+    width: 60%;
+}
+
+.c25983 {
+    padding: 10px 10px 10px 10px;
+    margin: 99px 0px 0px 0px;
+}
+
+.c26464 {
+    padding: 10px;
+    text-align: center;
+}
+
+.c26663 {
+    padding: 10px;
+}
+
+.c23970 {
+    padding: 10px;
+}
+
+.c24037 {
+    margin: -35px 0px -11px 0px;
+    text-align: center;
+}
+
+.c24959 {
+    padding: 10px;
+    text-align: center;
+}
+
+.page-section.pt-0 {
+    margin: 0px 0px 3px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.c25608 {
+    padding: 10px;
+    text-align: center;
+}
+
+.c11159 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c27963 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c27990 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c28423 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c29276 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c30750 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c31302 {
+    padding: 10px;
+    text-align: center;
+}
+
+.c30776 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c31727 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c31753 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c32375 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c33542 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c33569 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c34597 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c34615 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c34642 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c34660 {
+    font-size: 1rem;
+    word-spacing: 0.05rem;
+}
+
+.c34714 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c34741 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c34768 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c7244 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-size: auto;
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: scroll;
+}
+
+.c10918 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c11256 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c11602 {
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c12001 {
+    mso-spacerun: 'yes';
+    font-family: 等线;
+    mso-fareast-font-family: 宋体;
+    mso-bidi-font-family: 'Times New Roman';
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c12543 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c12656 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c13219 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c13250 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c13821 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c13969 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c14000 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c10772 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+}
+
+.c13089 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.c10600 {
+    background-color: #fcc323;
+}
+
+.c21832 {
+    word-spacing: 0.05rem;
+    font-size: 16px;
+}
+
+.c23144 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c23162 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c23445 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c23612 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c23639 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c23666 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c23693 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c23720 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c23747 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c23783 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c23909 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c23963 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c23999 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c24035 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c24089 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c24125 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c24161 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c24645 {
+    text-align: center;
+}
+
+.c24672 {
+    text-align: center;
+}
+
+.c24753 {
+    text-align: center;
+}
+
+.c24964 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c25934 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c25961 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c25988 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c26015 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c26042 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c26069 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c26096 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c26123 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c26150 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c26177 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c27012 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c27030 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c27243 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+}
+
+.c27306 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+}
+
+.c27588 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c27633 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c27651 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c27669 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c27810 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c27837 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c27987 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c28014 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 14.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c28041 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 14.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c28068 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 14.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c28095 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c28122 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c28140 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c28167 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c28194 {
+    font-size: 1rem;
+    word-spacing: 0.05rem;
+}
+
+.c29007 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c29482 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c29548 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    text-align: justify;
+    word-spacing: 0.05rem;
+}
+
+.c29566 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    text-align: justify;
+    word-spacing: 0.05rem;
+}
+
+.c29643 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c29661 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c29679 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c29697 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c29715 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c29733 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c29751 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c29928 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c29973 {
+    font-size: 1rem;
+    word-spacing: 0.05rem;
+}
+
+.c30000 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c30027 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c30054 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c30205 {
+    word-spacing: 0.05rem;
+    font-size: 16px;
+}
+
+.c30232 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c30377 {
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+
+.c30331 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c30385 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c30437 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c30464 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c29981 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c30516 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c30534 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c30561 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c32537 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c32882 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+}
+
+.c32945 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+}
+
+.c37890 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c37935 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c37971 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c38007 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c38034 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c38061 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c38088 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c38142 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c38187 {
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c38241 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c38691 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c38718 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c38745 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c38772 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c38799 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c38826 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c38853 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c39381 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c39399 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c39425 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c39974 {
+    word-spacing: 0.05rem;
+}
+
+.c39992 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c40010 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c40126 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c40153 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c41585 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c41603 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c41630 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c41657 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c41684 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41720 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41747 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41774 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41801 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41828 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41855 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41900 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41927 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41954 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c41981 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c42008 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c42035 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c42599 {
+    word-spacing: 0.05rem;
+}
+
+.c42617 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c42643 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c42909 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c42936 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c42981 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c43281 {
+    word-spacing: 0.05rem;
+}
+
+.c43299 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c43317 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c43007 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+    background: rgb(255,255,0);
+    mso-highlight: rgb(255,255,0);
+}
+
+.c43965 {
+    word-spacing: 0.05rem;
+}
+
+.c43983 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    color: rgb(89, 89, 89);
+    word-spacing: 0.05rem;
+}
+
+.c44780 {
+    color: rgb(89, 89, 89);
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c44807 {
+    color: rgb(89, 89, 89);
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c44834 {
+    color: rgb(89, 89, 89);
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c44870 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c44888 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c44914 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c45348 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c45645 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c45672 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c45690 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c45953 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+}
+
+.c46016 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+}
+
+.c46043 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+}
+
+.c46070 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+}
+
+.c46368 {
+    word-spacing: 0.05rem;
+}
+
+.c46386 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c46413 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c46440 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c46467 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c46502 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c47501 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c47528 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c47555 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c47791 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c47809 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c47836 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c47871 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(0,0,0);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c47898 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.fdb-block.fp-active {
+    padding: 50px 0px 0 0px;
+}
+
+.col-12.col-md-6 {
+    text-align: right;
+}
+
+.c55418 {
+    color: black;
+    width: 80%;
+}
+
+.row.text-left.pt-4 {
+    height: 450px;
+}
+
+.c55630 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c55622 {
+    margin: 0px 20% 0px 0px;
+}
+
+.c56259 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c57973 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c57991 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c59144 {
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c59171 {
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c59198 {
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c59225 {
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c59261 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c60562 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+}
+
+.c60580 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+}
+
+.c60598 {
+    text-indent: 32.0000pt;
+    mso-char-indent-count: 2.0000;
+}
+
+.c60606 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c61196 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+}
+
+.c61214 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+}
+
+.c61232 {
+    text-indent: 32.0000pt;
+    mso-char-indent-count: 2.0000;
+}
+
+.c61240 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c61922 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+}
+
+.c61940 {
+    text-indent: 32.0000pt;
+    mso-char-indent-count: 2.0000;
+}
+
+.c62627 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c64032 {
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c64059 {
+    text-indent: 32.0000pt;
+    mso-char-indent-count: 2.0000;
+}
+
+.c64067 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c68107 {
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c68134 {
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c68179 {
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c68206 {
+    text-indent: 32.0000pt;
+    mso-char-indent-count: 2.0000;
+}
+
+.c68989 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c69923 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+}
+
+.c69941 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+}
+
+.c69959 {
+    text-indent: 32.0000pt;
+    mso-char-indent-count: 2.0000;
+}
+
+.c69967 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c71560 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+    text-indent: 32pt;
+    word-spacing: 0.05rem;
+}
+
+.c71587 {
+    text-indent: 32.0000pt;
+    mso-char-indent-count: 2.0000;
+}
+
+.c72514 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+    text-align: left;
+}
+
+.c72577 {
+    font-size: 2rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+    text-align: left;
+}
+
+.c27251 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c27314 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c27406 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c32890 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c32953 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c33045 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c45961 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c46024 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c46051 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c46078 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c46214 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c74350 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c74377 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c74676 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c74711 {
+    font-size: 16pt;
+}
+
+.c76280 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c77324 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c77342 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c77360 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c77378 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c77774 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c77819 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c77846 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c77891 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c77936 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c77972 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c78017 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c78044 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c78954 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c78972 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c23188 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c80153 {
+    color: black;
+    width: 40%;
+    margin: 0px 30% 0px 30%;
+}
+
+.c27056 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c81446 {
+    word-spacing: 0.05rem;
+    font-size: 16pt;
+}
+
+.c81464 {
+    word-spacing: 0.05rem;
+    font-size: 16pt;
+}
+
+.c81482 {
+    word-spacing: 0.05rem;
+    font-size: 16pt;
+}
+
+.c29094 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c29121 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c26486.c28194 {
+    padding: 10px 0px 10px 0px;
+    width: 100%;
+    margin: 0px 0px 0px 0;
+}
+
+.c81773 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c84218 {
+    color: black;
+    width: 80%;
+    margin: 0px 10% 0px 10%;
+}
+
+.c85647 {
+    color: black;
+}
+
+.c87613 {
+    color: black;
+    margin: 0px 0px 0px 20%;
+    width: 80%;
+}
+
+.c87767 {
+    color: black;
+    margin: 0px 20% 0px 0px;
+    width: 80%;
+}
+
+.c90180 {
+    color: black;
+    margin: 0px 20% 0px 20%;
+    width: 60%;
+}
+
+.c32563 {
+    font-size: 10.5pt;
+    background: rgb(255, 255, 0);
+}
+
+.c90701 {
+    color: black;
+    width: 60%;
+    margin: 0px 20% 0px 20%;
+}
+
+.c42070 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c91802 {
+    color: black;
+    margin: 0px 20% 0px 20%;
+    width: 60%;
+}
+
+.c92459 {
+    color: black;
+    margin: 0px 20% 0px 20%;
+    width: 60%;
+}
+
+.c92776 {
+    color: black;
+    width: 60%;
+    margin: 0px 20% 0px 20%;
+}
+
+.c92983 {
+    width: 70%;
+}
+
+.row.align-items-center {
+    margin: 0px 0px 100px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.c43343 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c96597 {
+    color: black;
+    margin: 0px 20% 0px 20%;
+    width: 60%;
+}
+
+.c45374 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c97350 {
+    color: black;
+    margin: 0px 20% 0px 20%;
+    width: 60%;
+}
+
+.c45716 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c45743 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c98528 {
+    color: black;
+    margin: 0px 20% 0px 20%;
+    width: 60%;
+}
+
+.c47581 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 10.5000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c99135 {
+    color: black;
+    width: 60%;
+    margin: 0px 20% 0px 20%;
+}
+
+.c101024 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c101042 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c101060 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 12pt;
+}
+
+.c101133 {
+    text-align: center;
+}
+
+.c101160 {
+    text-align: center;
+}
+
+.c101488 {
+    color: black;
+    width: 30%;
+    margin: 0px 35% 0px 35%;
+}
+
+.c101911 {
+    color: black;
+    width: 40%;
+    margin: 0px 30% 0px 30%;
+}
+
+.c61948 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c102959 {
+    color: black;
+    width: 50%;
+    margin: 0px 25% 0px 25%;
+}
+
+.c103325 {
+    color: black;
+    width: 60%;
+    margin: 0px 20% 0px 20%;
+}
+
+.c103677 {
+    color: black;
+    width: 60%;
+    margin: 0px 20% 0px 20%;
+}
+
+.c104031 {
+    color: black;
+    width: 80%;
+    margin: 0px 10% 0px 10%;
+}
+
+.c77404 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c105049 {
+    color: black;
+    margin: 0px 2% 0px 5%;
+    width: 93%;
+}
+
+.c106087 {
+    color: black;
+    margin: 0px 5% 0px 2%;
+    width: 93%;
+}
+
+.c6379 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c6411 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c6465 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c6508 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c6539 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c6668 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c6699 {
+    font-family: 微软雅黑;
+    font-size: 18pt;
+}
+
+.c6652 {
+    width: 80%;
+    margin: 0px 10% 0px 10%;
+}
+
+.c7171 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c7211 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c7251 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c7309 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c7349 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c7407 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c7447 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c7487 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c7545 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c7585 {
+    font-family: 微软雅黑;
+    font-size: 16pt;
+}
+
+.c6730 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/QQ图片20231007224736.png');
+    background-size: cover;
+    padding: 120px 10px 120px 10px;
+}
+
+.c10426 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c8465 {
+    padding: 120px 0px 120px 0px;
+}
+
+.c11002 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c11259 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c11344 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c11375 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c10826 {
+    padding: 100px 0px 100px 0px;
+}
+
+.c17438 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c17469 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c20567 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c21244 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c21826 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 18pt;
+}
+
+.c21893 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 18pt;
+}
+
+.c21933 {
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 18pt;
+}
+
+.c14926 {
+    background-color: #fcc323;
+}
+
+.c10600.c14926 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/封面（终）.jpg');
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.c38928 {
+    padding: 10px;
+    text-align: center;
+}
+
+.c38985 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 12pt;
+    word-spacing: 0.05rem;
+}
+
+.c39896 {
+    color: black;
+}
+
+.c40084 {
+    color: black;
+}
+
+.c42648 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c42666 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c48018 {
+    color: black;
+    width: 50%;
+    margin: 0px 25% 0px 25%;
+}
+
+.c50658 {
+    color: black;
+    width: 40%;
+    margin: 0px 30% 0px 30%;
+}
+
+.c50946 {
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c52197 {
+    width: 50%;
+    text-align: center;
+    margin: 0px 25% 0px 25%;
+}
+
+.c52508 {
+    color: black;
+    width: 80%;
+    margin: 0px 10% 0px 10%;
+}
+
+.c53528 {
+    width: 50%;
+    margin: 0px 25% 0px 25%;
+}
+
+.c53653 {
+    width: 50%;
+    margin: 0px 25% 0px 25%;
+}
+
+.c53782 {
+    padding: 10px;
+}
+
+.c53839 {
+    text-align: center;
+}
+
+.c6919 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/封面（终）.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.c8506 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/封面（终）.jpg');
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.c9265 {
+    margin: 0px 10% 0px 10%;
+    width: 80%;
+}
+
+.c10947 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/封面（终）.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.c19733 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c19751 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c19769 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c19787 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 12.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c24205 {
+    width: 80%;
+    margin: 0px 10% 0px 10%;
+}
+
+.c23057 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/3937/封面（终）.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.c47946 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c47964 {
+    color: rgb(89, 89, 89);
+    font-family: 微软雅黑;
+    font-size: 16pt;
+    word-spacing: 0.05rem;
+}
+
+.c47991 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c48027 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c48054 {
+    word-spacing: 0.05rem;
+    font-family: 微软雅黑;
+    color: rgb(89, 89, 89);
+    font-size: 16pt;
+}
+
+.c48089 {
+    mso-spacerun: 'yes';
+    font-family: 微软雅黑;
+    color: rgb(89,89,89);
+    font-size: 16.0000pt;
+    mso-font-kerning: 1.0000pt;
+}
+
+.c51264 {
+    color: black;
+    width: 80%;
+    margin: 0px 10% 0px 10%;
+}
+
+.c52845 {
+    padding: 10px;
+}
+
+.c52902 {
+    text-align: center;
+}
+
+.c54665 {
+    color: black;
+    text-align: left;
+    width: 40%;
+    margin: 0px 30% 0px 30%;
+}
+
+.c58936 {
+    padding: 10px;
+}
+
+.c58993 {
+    text-align: center;
+}
+
+.c59038 {
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .htmlpage-cell {
+        width: 100%;
+        display: block;
+    }
+}
